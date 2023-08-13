@@ -1,3 +1,8 @@
+# REPOSITORY UPDATES
+13 Aug 2023
+I've been meaning to have this up when I created this repository. There are some coding errors in some of the scripts that
+I need to correct. Once I've correct the errors, I will add an update.
+
 # My Dotfiles
 These are my # linux.sh
 This script checks to see if the Linux operating system is installed and reports
